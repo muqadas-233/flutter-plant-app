@@ -1,16 +1,21 @@
-# plant_shop
+# 🌿 Flutter Plant App
 
-A new Flutter project.
+A beautifully designed Flutter app for browsing and purchasing indoor plants. Built with love 💚 using Flutter.
 
-## Getting Started
+## 📱 Preview
 
-This project is a starting point for a Flutter application.
+![App Demo](assets/demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- Browse plant catalog
+- View plant details
+- Add to cart and buy now
+- Clean UI with modern design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Built With
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 💫 Feel free to contribute or give it a star ⭐ if you like it!
